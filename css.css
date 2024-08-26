@@ -4,3 +4,16 @@ body{
     color: brown
 
 }
+h1{
+    color: blueviolet;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+head{
+    color: rgb(68, 0, 255);
+    
+}
+
+body{
+    padding: 20px 30px;
+    background-image: -moz-linear-gradient(20px 30 px);
+}
